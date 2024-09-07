@@ -1,2 +1,5 @@
 print("la montaña")
 print("don julio")
+print("lechera laurita")
+print("cafe don arturo")
+print("arepas doña paisa")
